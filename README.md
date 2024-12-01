@@ -8,7 +8,10 @@
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
-![image]()
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/case1.png)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/case2.png)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/case3.png)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/case4.png)
 
 ## Diagrama de casos de uso
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagrama%20usecase3.png)
