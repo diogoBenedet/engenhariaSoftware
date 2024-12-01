@@ -11,7 +11,7 @@ Tabelas com a descrição dos casos de uso
 ![image]()
 
 ## Diagrama de casos de uso
-![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagrama%20usecase.png)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagrama%20usecase3.png)
 
 ## Modelo de Domínio
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/modelo%20dominio.jpg)
