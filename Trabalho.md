@@ -13,7 +13,7 @@
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/case4.png)
 
 ## Diagrama de casos de uso
-![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagrama%20usecase3.png)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagram%20usecase.png)
 
 ## Modelo de Domínio
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/modelo%20dominio.jpg)
