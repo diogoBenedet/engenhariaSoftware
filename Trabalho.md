@@ -3,7 +3,7 @@
 1) Diogo Augusto Benedet
 2) Matheus Perin
 3) Guilherme da Cruz Ávila
-4) João Vitor Bezzutti
+4) João Vitor Bezutti
 5) Jean Weber Sulzbach
 
 ## Casos de uso do sistema de reserva de passagens aéreas
