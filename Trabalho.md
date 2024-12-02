@@ -16,7 +16,7 @@
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagram%20usecase.png)
 
 ## Modelo de Domínio
-![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/modelo%20dominio.jpg)
+![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/Modelo%20de%20Dominio%20A3.png)
 
 ## Diagrama de Atividades
 ![image](https://github.com/diogoBenedet/engenhariaSoftware/blob/main/images/diagrama%20atividade.jpg)
